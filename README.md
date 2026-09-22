@@ -1,5 +1,12 @@
 # GoHighLevel Expert – lead automation, AI qualification & workflows
 
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-webhooks-blue)
+
+![Demo](assets/demo.gif)
+
 A working example of the automation we build for GoHighLevel users: **every new
 lead scored the moment it arrives, hot leads moved to the right pipeline stage,
 and follow-up tasks created — automatically.** No lead waits for a human to
